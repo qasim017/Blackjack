@@ -1,0 +1,32 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-image: url(jj.jpg);
+    background-size: cover;
+    color: rgb(233, 235, 236);
+ font-weight: bold;
+
+
+}
+
+h1{
+    color: goldenrod
+    
+}
+ #message-el {
+ font-style: italic;
+} 
+button {
+    background-color: goldenrod;
+    color: rgb(6, 110, 6);
+    width: 153px;
+    font-weight: bolder;
+    height: 40px;
+    border: 1px solid;
+    border-radius: 4px;
+    
+}
+button:hover{
+    background-color: rgb(187, 139, 19);
+    color: rgb(76, 116, 76);
+}
